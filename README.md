@@ -1,3 +1,6 @@
+#URL of Live Version
+https://admin.lcommerce.net
+
 Install Vue.js Admin Panel
 Run npm install
 Run npm run dev
